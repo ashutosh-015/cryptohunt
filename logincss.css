@@ -14,9 +14,9 @@ background: linear-gradient(to top, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Fir
         width: 350px;
         margin-top: auto;
         margin-bottom: auto;
-        background: #FF8008;  /* fallback for old browsers */
-        background: -webkit-linear-gradient(to top, #FFC837, #FF8008);  /* Chrome 10-25, Safari 5.1-6 */
-        background: linear-gradient(to top, #FFC837, #FF8008); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: ##FFBF00;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #FFC837, ##FFBF00);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #FFC837, ##FFBF00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
         position: relative;
         display: flex;
